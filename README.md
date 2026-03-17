@@ -17,4 +17,4 @@ const me = {
   fun_fact: "Can debug while sleeping. Often dreams in SQL."
 };
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[GANTI_USERNAME_KAMU]&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[kemasmalfath]&theme=tokyonight&hide_border=true)
