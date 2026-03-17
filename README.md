@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20[GANTI_DENGAN_NAMA_KAMU]%20👋&fontSize=40&animation=fadeIn" />
 </p>
 
-```javascript
+javascript
 const me = {
   pronouns: "He/Him",
   core_skills: ["Python", "JavaScript", "SQL"],
