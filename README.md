@@ -4,8 +4,12 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20[GANTI_DENGAN_NAMA_KAMU]%20👋&fontSize=40&animation=fadeIn" />
 </p>
 
-javascript
-const me = {
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Kemas%20M%20Alfath%20Iskandar&fontSize=35&animation=fadeIn" />
+</p>
+
+```javascript
+const dev = {
   pronouns: "He/Him",
   core_skills: ["Python", "JavaScript", "SQL"],
   frameworks: {
